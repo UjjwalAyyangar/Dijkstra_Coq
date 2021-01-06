@@ -1,7 +1,7 @@
 # Dijkstra_Coq
 An implementation of Dijkstra Algorithm in Coq. (just for practice)
 
-## Data Structure 
+## How is a Node represented? 
 
 ![image](https://drive.google.com/uc?export=view&id=1AmNZZlnc10aALEuqby2AGYPVg6EfGre8)
 
