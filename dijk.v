@@ -1,9 +1,5 @@
 (*
-  Course: CMSC631 - Program Analysis and Understanding
-  Topic: Implementation of Dijsktra algorithm in COQ 
   Author: Ujjwal Ayyangar
-  Semester: Fall 2020
-  Instructor: Leonidas Lampropoulos
 *)
 
 Require Import Coq.omega.Omega.
